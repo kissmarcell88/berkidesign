@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+#menu-container{ margin-top:100px; margin-left:100px; position:relative; height:400px; width:400px; background-color:#FFF; }
+.menu-item { background-color:#000; position:absolute; border:solid 5px black; opacity: 0.8; cursor:pointer; }
+#menu-container #main{ 		width:150px; height:150px; margin-left:110px; margin-top:120px; /*background:url('../img/150x150.jpg');*/ }
+#menu-container #photos{ 	width:90px; height:90px; margin-left:0px; margin-top:120px; 	/*background:url('../img/90x90.jpg');  */}
+#menu-container #interior{ 	width:100px; height:100px; margin-left:60px; margin-top:0px; 	/*background:url('../img/100x100.jpg');*/ }
+#menu-container #diy{ 		width:70px; height:70px; margin-left:230px; margin-top:30px; 	/*background:url('../img/70x70.jpg');  */}
+#menu-container #contact{ 	width:80px; height:80px; margin-left:280px; margin-top:130px;	/*background:url('../img/80x80.jpg');  */}
+#menu-container #about{ 	width:60px; height:60px; margin-left:200px; margin-top:290px; 	/*background:url('../img/60x60.jpg');  */}
+
